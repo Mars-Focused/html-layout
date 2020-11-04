@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #cecece;
-    width: 10%;
+    width: 100%;
     Height: 100vh;
 }
 
@@ -16,4 +16,11 @@ body {
     margin: 0 auto;
     width: 75vw;
     height: 60vh
+}
+
+.footer {
+    background-color: #1f1f1f;
+    margin: 0 auto;
+    width: 75vw;
+    height: 40vh;
 }
