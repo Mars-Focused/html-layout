@@ -10,3 +10,10 @@ body {
     height: 20vh ;
     background-color: #333333 ;
 }
+
+.main {
+    background-color: rgb(235, 235, 235);
+    margin: 0 auto;
+    width: 75vw;
+    height: 60vh
+}
