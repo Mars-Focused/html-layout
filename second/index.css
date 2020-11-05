@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .top-box {
   display: inline-block;
   height: 20vh;
@@ -54,5 +58,14 @@
 .text {
   padding-top: 100px;
   padding-left: 50px;
-  color: blue;
+  color: rgb(0, 218, 247);
+  letter-spacing: 5px;
+}
+
+.yellow-box {
+  border: 1px solid black;
+  margin: 75px;
+  height: 50px;
+  background-color: tan;
+  box-shadow: 10px 10px black;
 }
