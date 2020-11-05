@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+.greyStripe {
+  border: 1px solid black;
+  height: 100px;
+  background-color: grey;
+}
+.blueBox {
+  background-color: blue;
+  height: 70px;
+  width: 70px;
+  margin: 15px;
+}
+.textBox {
+  height: 200px;
+  padding: 20px;
+}
+.blueStripe {
+  height: 100px;
+  background-color: blue;
+}
+.tealStripe {
+  height: 100px;
+  background-color: turquoise;
+}
+.greenStripe {
+  height: 100px;
+  background-color: green;
+}
+.yellowStripe {
+  height: 100px;
+  background-color: greenyellow;
+}
