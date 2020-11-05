@@ -13,8 +13,8 @@
 .purple-box {
   display: inline-block;
   border: 1px solid black;
-  height: 40px;
-  width: 10px;
+  height: 100px;
+  width: 30px;
   background-color: purple;
   margin-top: 20px;
 }
