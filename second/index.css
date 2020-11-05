@@ -1,24 +1,58 @@
 .top-box {
-    height: 20vh; 
-    width: 98vw;
-    border: 5px solid black;
-    margin: 10px 0px;
+  display: inline-block;
+  height: 20vh;
+  width: 98vw;
+  border: 5px solid black;
+  margin: 10px 0px;
+}
+
+.purple-box {
+  display: inline-block;
+  border: 1px solid black;
+  height: 40px;
+  width: 10px;
+  background-color: purple;
+  margin-top: 20px;
+}
+
+.green-box {
+  display: inline-block;
+  border: 1px solid black;
+  height: 100px;
+  width: 500px;
+  background-color: green;
+  margin-top: 20px;
+}
+
+.blue-circle {
+  display: inline-block;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: teal;
+  margin-top: 20px;
+  border-radius: 50%;
 }
 
 .mid-box {
-    height: 30vh; 
-    width: 98vw;
-    border: 5px dotted black;
-    margin: 10px 0px;
+  height: 30vh;
+  width: 98vw;
+  border: 5px dotted black;
+  margin: 10px 0px;
 }
 
 .bot-box {
-    height: 35vh; 
-    width: 30vw;
-    border: none;
-    margin: 10px 0;
-    position: relative;
-    left: 25rem;
-    box-shadow: 10px 10px 5px grey;
+  height: 35vh;
+  width: 30vw;
+  border: none;
+  margin: 10px 0;
+  position: relative;
+  left: 25rem;
+  box-shadow: 10px 10px 5px grey;
 }
 
+.text {
+  padding-top: 100px;
+  padding-left: 50px;
+  color: blue;
+}
